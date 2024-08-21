@@ -37,7 +37,7 @@ The important package that needed to be test are:
 - controllers
 - repositories
 
-Alos, the coverage is printed along side each package
+Also, the coverage is printed along side each package
 
 ### Containerize
 First to build the image, run:
