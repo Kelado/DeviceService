@@ -1,1 +1,5 @@
+# Ignore the executable
 bin/
+
+#  Ignore databases from sqlite
+*.db
